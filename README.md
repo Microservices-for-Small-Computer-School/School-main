@@ -6,15 +6,15 @@ In this series we will learn 1. Multiple Microservices, 2. Minimal API, 3. API w
 
 ## Microservices Series is divided into `18 Courses` and `Multiple Seasons`
 
-### Course **1** - March 2023 - Minimal API in .NET 7 with In-Memory Database, EF Core - **`Completed`**
+### Course **1** - March 2023 - Minimal API in .NET 7 with In-Memory Database, EF Core
 
 **Pre-requisites:** Postman, GitHub Organization / Account, Azure Subscription, VS Code, VS 2022
 
-> 1. .NET 7 Minimal API with Static data
-> 1. .NET 7 Minimal API with Dynamic data
-> 1. .NET 7 Minimal API DI, IOC, record, DTOs, AutoMapper, and Extension Methods
-> 1. .NET 7 Minimal API Swagger, Repository, Business Layer, and GitHub Actions
-> 1. .NET 7 Minimal API Serilog, CORS, Angular 15, and Azure App Service
+> 1. [**Day 1**](Documentation\Course1\Session1\README.md) .NET 7 Minimal API with Static data
+> 1. [**Day 2**](Documentation\Course1\Session2\README.md) .NET 7 Minimal API with Dynamic data
+> 1. [**Day 3**](Documentation\Course1\Session3\README.md) .NET 7 Minimal API DI, IOC, record, DTOs, AutoMapper, and Extension Methods
+> 1. [**Day 4**](Documentation\Course1\Session4\README.md) .NET 7 Minimal API Swagger, Repository, Business Layer, and GitHub Actions
+> 1. [**Day 5**](Documentation\Course1\Session5\README.md) .NET 7 Minimal API Serilog, CORS, Angular 15, and Azure App Service
 
 ---
 
